@@ -26,3 +26,9 @@ int main(void)
 		}    
 }
 
+int denis(int denis,char gay)
+{
+	denis=gay;
+	printf("denis je %c",gay);
+	return gay;
+)
